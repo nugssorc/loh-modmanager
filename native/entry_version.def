@@ -1,0 +1,20 @@
+LIBRARY version
+EXPORTS
+  GetFileVersionInfoA = \\.\GLOBALROOT\SystemRoot\System32\version.GetFileVersionInfoA @1
+  GetFileVersionInfoByHandle = \\.\GLOBALROOT\SystemRoot\System32\version.GetFileVersionInfoByHandle @2
+  GetFileVersionInfoExA = \\.\GLOBALROOT\SystemRoot\System32\version.GetFileVersionInfoExA @3
+  GetFileVersionInfoExW = \\.\GLOBALROOT\SystemRoot\System32\version.GetFileVersionInfoExW @4
+  GetFileVersionInfoSizeA = \\.\GLOBALROOT\SystemRoot\System32\version.GetFileVersionInfoSizeA @5
+  GetFileVersionInfoSizeExA = \\.\GLOBALROOT\SystemRoot\System32\version.GetFileVersionInfoSizeExA @6
+  GetFileVersionInfoSizeExW = \\.\GLOBALROOT\SystemRoot\System32\version.GetFileVersionInfoSizeExW @7
+  GetFileVersionInfoSizeW = \\.\GLOBALROOT\SystemRoot\System32\version.GetFileVersionInfoSizeW @8
+  GetFileVersionInfoW = \\.\GLOBALROOT\SystemRoot\System32\version.GetFileVersionInfoW @9
+  VerFindFileA = \\.\GLOBALROOT\SystemRoot\System32\version.VerFindFileA @10
+  VerFindFileW = \\.\GLOBALROOT\SystemRoot\System32\version.VerFindFileW @11
+  VerInstallFileA = \\.\GLOBALROOT\SystemRoot\System32\version.VerInstallFileA @12
+  VerInstallFileW = \\.\GLOBALROOT\SystemRoot\System32\version.VerInstallFileW @13
+  VerLanguageNameA = \\.\GLOBALROOT\SystemRoot\System32\version.VerLanguageNameA @14
+  VerLanguageNameW = \\.\GLOBALROOT\SystemRoot\System32\version.VerLanguageNameW @15
+  VerQueryValueA = \\.\GLOBALROOT\SystemRoot\System32\version.VerQueryValueA @16
+  VerQueryValueW = \\.\GLOBALROOT\SystemRoot\System32\version.VerQueryValueW @17
+  LOH_DokbakYuga_Entry @67
